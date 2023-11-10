@@ -1,3 +1,5 @@
 # Multi Label Classification 
 
-![alt text](https://github.com/Sinanoloji/multi-label-classification/blob/main/Accuracy.png width="250" height="250")
+![image](https://github.com/Sinanoloji/multi-label-classification/blob/main/Accuracy.png width="150" height="280")
+![alt text](https://github.com/Sinanoloji/multi-label-classification/blob/main/Accuracy.png)
+
